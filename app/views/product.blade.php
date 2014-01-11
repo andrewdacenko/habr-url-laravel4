@@ -19,7 +19,7 @@
 		<tr>
 			<td>{{{ $product->name }}}</td>
 			<td>{{{ $product->price }}}</td>
-			<td>{{{ $product->city->name }}}</td>
+			<td><a href="{{{ route('city', $product->city->slug) }}}">{{{ $product->city->name }}}</a></td>
 		</tr>
 	</tbody>
 </table>
