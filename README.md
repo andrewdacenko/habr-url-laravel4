@@ -18,3 +18,5 @@ That's it!
 * All available routes can be found at ``` php artisan routes ```
 
 Russian article of full tutorial can be found at [Habrahabr.ru](http://habrahabr.ru/post/208678/)
+
+Look for Demo at [Fortrabbit](http://habr-url.eu1.frbit.net/)
